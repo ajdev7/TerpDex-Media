@@ -2,7 +2,7 @@
   {
     "name": "AK47",
     "id": "#001",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/001.png",
     "xdescription": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "ydescription": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "height": "2' 04\"",
@@ -31,7 +31,7 @@
   {
     "name": "Blue Dream",
     "id": "#002",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/002.png",
     "xdescription": "There is a bud on this Pok\u00e9mon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "ydescription": "There is a bud on this Pok\u00e9mon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "height": "3' 03\"",
@@ -60,7 +60,7 @@
   {
     "name": "Durban Poison",
     "id": "#003",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/003.png",
     "xdescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "ydescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "height": "6' 07\"",
@@ -89,7 +89,7 @@
   {
     "name": "Gelato",
     "id": "#004",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/004.png",
     "xdescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "ydescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "height": "2' 00\"",
@@ -118,7 +118,7 @@
   {
     "name": "GDP",
     "id": "#005",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/005.png",
     "xdescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "ydescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "height": "6' 07\"",
@@ -147,7 +147,7 @@
   {
     "name": "Grape Ape",
     "id": "#006",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/006.png",
     "xdescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "ydescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "height": "2' 00\"",
@@ -176,7 +176,7 @@
   {
     "name": "Harlequin",
     "id": "#007",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/007.png",
     "xdescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "ydescription": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "height": "6' 07\"",
@@ -205,7 +205,7 @@
   {
     "name": "Kosher Kush",
     "id": "#008",
-    "imageurl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "imageurl": "https://raw.githubusercontent.com/ajdev7/TerpDex-Media/main/images/008.png",
     "xdescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "ydescription": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pok\u00e9mon becomes enraged, the flame burns fiercely.",
     "height": "2' 00\"",
